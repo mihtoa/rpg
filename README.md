@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# RPG GAME
+
+RPG game created based on videos from the devmentorlive channel on YouTube.
+
+https://www.youtube.com/watch?v=DqpPgK13oEM
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
